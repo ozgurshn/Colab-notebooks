@@ -9,4 +9,4 @@ My trials on Google Colab:
 
 4) CycleGan fastAI on Colab [Colab](https://colab.research.google.com/github/ozgurshn/Colab-notebooks/blob/master/Cyclegan.ipynb)
 
-5) Turkish Sentinment Classification with Logictic Regression [Colab](https://github.com/ozgurshn/Colab-notebooks/blob/master/LogisticRegressionTurkishTextClassify.ipynb)
+5) Turkish Sentiment Classification with Logictic Regression [Colab](https://github.com/ozgurshn/Colab-notebooks/blob/master/LogisticRegressionTurkishTextClassify.ipynb)
