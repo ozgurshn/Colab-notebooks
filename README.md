@@ -8,3 +8,5 @@ My trials on Google Colab:
 3) Pretrained Image Classifier Resnet50 fastaiv1 [Colab](https://colab.research.google.com/github/ozgurshn/Colab-notebooks/blob/master/pretrained_imagenet_classifier_fastai_v1.ipynb)
 
 4) CycleGan fastAI on Colab [Colab](https://colab.research.google.com/github/ozgurshn/Colab-notebooks/blob/master/Cyclegan.ipynb)
+
+5) Turkish Sentinment Classification with Logictic Regression [Colab] (https://github.com/ozgurshn/Colab-notebooks/blob/master/LogisticRegressionTurkishTextClassify.ipynb)
