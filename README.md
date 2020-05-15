@@ -11,4 +11,4 @@ My trials on Google Colab:
 
 5) Turkish Sentiment Classification with Logictic Regression [Colab](https://github.com/ozgurshn/Colab-notebooks/blob/master/LogisticRegressionTurkishTextClassify.ipynb)
 
-6) Google Image Downloader wıth FastAI [Colab](https://colab.research.google.com/drive/1qiP9td3i1ylt5e6pU2oh5qQVI1sRyt5g?usp=sharing)
+6) Google Image Downloader with FastAI [Colab](https://colab.research.google.com/drive/1qiP9td3i1ylt5e6pU2oh5qQVI1sRyt5g?usp=sharing)
